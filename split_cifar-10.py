@@ -19,7 +19,7 @@ from skimage import io
 
 # Path to cifar-10 dataset. Only binary version is supported.
 # Download url: https://www.cs.toronto.edu/~kriz/cifar-10-binary.tar.gz
-path = '/home/chong/Data/cifar10_data/cifar-10-batches-bin'
+path = '/path/to/cifar-10/binary/dataset'
 
 # Labels.
 label_strings = ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
